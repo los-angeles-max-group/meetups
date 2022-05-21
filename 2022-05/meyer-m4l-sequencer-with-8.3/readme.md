@@ -1,0 +1,1 @@
+To install the Max for Live device, drop the "8 Euclidean" folder in: Ableton/User Library/Presets/Midi Effects/Max MIDI Effects.
