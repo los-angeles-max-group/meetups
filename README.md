@@ -1,5 +1,5 @@
 # meetups
-repository for monthly meetup shared patches and ephemera
+repository for monthly meetup info, patches, and other ephemera
 
 meetups are our monthly opportunity to meet, learn, hang out, patch, and eat food. 
 
