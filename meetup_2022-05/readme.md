@@ -4,3 +4,7 @@
 
 [Info for organizers](https://docs.google.com/document/d/14vzabtnGtFaBIVTtOG3QlPcXRwzUDRJtqN_lHVwVjlc/edit#)
 
+[Philip's Website](https://philip-meyer.com/)
+
+[Julian's Website](https://julianstein.net/about)
+
