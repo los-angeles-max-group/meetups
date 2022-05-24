@@ -5,7 +5,7 @@ This event is free and welcomes people of all skill levels, experiences, races, 
 
 This month explores two building blocks for making rhythmic music with Max.
 
-[Philip Meyer]((https://philip-meyer.com/) will show how some of Max’s newest features MC and the brand-new objects what~ and subdiv~ can be used to build a multitrack sequencer in Max for Live. 
+[Philip Meyer](https://philip-meyer.com/) will show how some of Max’s newest features MC and the brand-new objects what~ and subdiv~ can be used to build a multitrack sequencer in Max for Live. 
 
 [Julian Stein](https://julianstein.net/about) will use the MuBu and PiPo libraries to demonstrate an analysis-based approach to audio sequencing, providing real-time techniques for slicing-up samples and rearranging them into new musical patterns.
 
