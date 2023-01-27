@@ -153,7 +153,7 @@
 					"patching_rect" : [ 441.0, 123.5, 100.0, 40.0 ],
 					"preset_data" : [ 						{
 							"number" : 1,
-							"data" : [ 5, "obj-26", "attrui", "attr", "shape", 4, "obj-26", "attrui", "sphere", 5, "obj-56", "flonum", "float", 1.870000004768372, 5, "obj-61", "flonum", "float", 179.0 ]
+							"data" : [ 5, "obj-26", "attrui", "attr", "shape", 4, "obj-26", "attrui", "sphere", 5, "obj-56", "flonum", "float", 1.299999952316284, 5, "obj-61", "flonum", "float", 2.0 ]
 						}
 , 						{
 							"number" : 2,
@@ -985,8 +985,8 @@
 					"numinlets" : 9,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 228.0, 418.0, 367.857142857142833, 22.0 ],
-					"text" : "jit.gl.mesh @lighting_enable 1 @smooth_shading 1 @color 1 1 1 1"
+					"patching_rect" : [ 228.0, 418.0, 451.0, 22.0 ],
+					"text" : "jit.gl.mesh @lighting_enable 1 @smooth_shading 1 @color 1 1 1 1 @auto_colors 1"
 				}
 
 			}
@@ -1207,7 +1207,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-5", 2 ],
-					"midpoints" : [ 543.5, 406.5, 324.714285714285722, 406.5 ],
+					"midpoints" : [ 543.5, 406.5, 345.5, 406.5 ],
 					"source" : [ "obj-7", 2 ]
 				}
 
@@ -1215,7 +1215,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-5", 1 ],
-					"midpoints" : [ 497.0, 397.5, 281.107142857142833, 397.5 ],
+					"midpoints" : [ 497.0, 397.5, 291.5, 397.5 ],
 					"source" : [ "obj-7", 1 ]
 				}
 
