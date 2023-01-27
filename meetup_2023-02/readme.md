@@ -17,7 +17,7 @@ Basis functions can be used for many purposes. The classic example is to produce
 Use this list of patches for a little bit of inspiration or free code.
 
 ### jit.gl.bfg Roundup (C74 blog)
-Check out [this article](https://cycling74.com/tutorials/the-great-jit-gl-bfg-round-up) on the Cycling '74 blog in which some C74 employees (including our very own host, Chris!) made some patches with jit.gl.bfg.
+Check out [this article](https://cycling74.com/tutorials/the-great-jit-gl-bfg-round-up) on the Cycling '74 blog where you can get jit.gl.bfg patches made by C74 employees 
 
 ### meyer_simplex_2dwavetable.maxpat
 This patch uses simplex noise to make a synth by transforming the a 2d simplex noise texture from jit.bfg into a wavetable.
