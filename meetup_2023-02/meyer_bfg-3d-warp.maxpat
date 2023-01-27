@@ -114,7 +114,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 530.0, 338.0, 58.0, 20.0 ],
+					"patching_rect" : [ 530.0, 317.5, 58.0, 20.0 ],
 					"text" : "normals"
 				}
 
@@ -126,7 +126,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 473.0, 338.0, 58.0, 33.0 ],
+					"patching_rect" : [ 473.0, 317.5, 58.0, 33.0 ],
 					"presentation_linecount" : 2,
 					"text" : "text coord"
 				}
@@ -138,7 +138,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 413.0, 338.0, 58.0, 20.0 ],
+					"patching_rect" : [ 413.0, 317.5, 58.0, 20.0 ],
 					"text" : "vertices"
 				}
 
@@ -455,7 +455,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 228.0, 366.0, 169.0, 22.0 ],
+					"patching_rect" : [ 228.0, 360.5, 169.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -973,7 +973,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 5,
 					"outlettype" : [ "jit_matrix", "jit_matrix", "jit_matrix", "jit_matrix", "" ],
-					"patching_rect" : [ 441.0, 314.0, 205.0, 22.0 ],
+					"patching_rect" : [ 441.0, 293.5, 205.0, 22.0 ],
 					"text" : "jit.unpack @offset 0 2 5 @jump 3 2 2"
 				}
 
@@ -1021,7 +1021,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 441.0, 284.5, 236.0, 22.0 ],
+					"patching_rect" : [ 441.0, 264.0, 236.0, 22.0 ],
 					"text" : "jit.gl.gridshape wrld 16 16 @matrixoutput 1"
 				}
 
@@ -1047,7 +1047,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 441.0, 254.5, 185.0, 22.0 ]
+					"patching_rect" : [ 441.0, 234.0, 185.0, 22.0 ]
 				}
 
 			}
@@ -1223,7 +1223,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-69", 0 ],
-					"midpoints" : [ 450.5, 350.5, 237.5, 350.5 ],
+					"midpoints" : [ 450.5, 351.0, 237.5, 351.0 ],
 					"source" : [ "obj-7", 0 ]
 				}
 
