@@ -13,7 +13,14 @@ jit.bfg has many different basis functions loaded into it - noise patterns like 
 
 Basis functions can be used for many purposes. The classic example is to produce a textured pattern in 2 dimensions, like Ken Perlin did back in 1983. You could also use jit.bfg in 1 dimension to create an interesting modulation source (i.e. an "LFO") that is neither predictable nor completely random. You can build a synth with jit.bfg by using its output as a wavetable. You can use a multi-dimensional jit.bfg texture to "warp" the vertices of a 3d shape or to control the motion of a shape in space. Noise functions are often used to develop things like "flocking" algorithms that emulate the movement of colonies of animals or bodies of water.
 
-In this repository we've included some patch snippets that you can use as a starting point for your patches. Also check out [this article](https://cycling74.com/tutorials/the-great-jit-gl-bfg-round-up) on the Cycling '74 blog in which some C74 employees (including our very own host, Chris!) made some patches with jit.gl.bfg.
+## Example Patches
+Use this list of patches for a little bit of inspiration or free code.
+
+### jit.gl.bfg Roundup (C74 blog)
+Check out [this article](https://cycling74.com/tutorials/the-great-jit-gl-bfg-round-up) on the Cycling '74 blog in which some C74 employees (including our very own host, Chris!) made some patches with jit.gl.bfg.
+
+### meyer_simplex_2dwavetable.maxpat
+This patch uses simplex noise to make a synth by transforming the a 2d simplex noise texture from jit.bfg into a wavetable.
 
 ## Collaboration Guidelines
 - Bring your laptop running Max, Max for Live! The Max free trial works great. If you don't have one, sent a note to maxmsp.la@gmail.com and we'll try to find one for you.
