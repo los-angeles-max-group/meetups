@@ -26,7 +26,7 @@ Make a wavetable synth with jit.bfg.
 Use jit.bfg to make crazy morphing 3D shapes
 
 ## Collaboration Guidelines
-- Bring your laptop running Max, Max for Live! The Max free trial works great. If you don't have one, sent a note to maxmsp.la@gmail.com and we'll try to find one for you.
+- Bring your laptop running Max, Max for Live. The Max free trial works great. If you don't have a laptop, sent a note to maxmsp.la@gmail.com and we'll try to find one for you.
 - Prepare to patch together with other members of the community, including some folks you may not already know.
 - Be aware that anybody - regardless of their Max experience level, communication style, background, or any other trait - can contribute to this group exercise.
 - Share your own ideas and insights in a constructive and respectful manner.
