@@ -20,7 +20,10 @@ Use this list of patches for a little bit of inspiration or free code.
 Check out [this article](https://cycling74.com/tutorials/the-great-jit-gl-bfg-round-up) on the Cycling '74 blog where you can get jit.gl.bfg patches made by C74 employees 
 
 ### meyer_simplex_2dwavetable.maxpat
-This patch uses simplex noise to make a synth by transforming the a 2d simplex noise texture from jit.bfg into a wavetable.
+Make a wavetable synth with jit.bfg.
+
+### meyer_bfg-3d-warp.maxpat
+Use jit.bfg to make crazy morphing 3D shapes
 
 ## Collaboration Guidelines
 - Bring your laptop running Max, Max for Live! The Max free trial works great. If you don't have one, sent a note to maxmsp.la@gmail.com and we'll try to find one for you.
