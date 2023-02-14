@@ -26,7 +26,7 @@ Make a wavetable synth with jit.bfg.
 Use jit.bfg to make crazy morphing 3D shapes
 
 ### meyer_bfg-sequencer.maxpat
-Use jit.bfg to make a cartesian sequencer inspired by the Make Noise Rene.
+Use jit.bfg to make a cartesian sequencer inspired by the Make Noise Rene. **Note** that this one has a pattrstorage JSON file - just keep it anywhere in the Max search path!
 
 ## Collaboration Guidelines
 - Bring your laptop running Max, Max for Live. The Max free trial works great. If you don't have a laptop, sent a note to maxmsp.la@gmail.com and we'll try to find one for you.
