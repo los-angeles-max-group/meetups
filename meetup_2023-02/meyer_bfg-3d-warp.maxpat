@@ -53,12 +53,13 @@
 , 			{
 				"box" : 				{
 					"bubble" : 1,
+					"bubbleside" : 0,
 					"id" : "obj-79",
 					"linecount" : 4,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 597.85714285714289, 397.0, 206.0, 64.0 ],
+					"patching_rect" : [ 462.85714285714289, 444.0, 206.0, 79.0 ],
 					"presentation_linecount" : 4,
 					"text" : "jit.gl.mesh takes in the modified vertices plus other info from the jit.gl.gridshape and renders the shape to the GL context \"wrld\""
 				}
@@ -97,14 +98,15 @@
 , 			{
 				"box" : 				{
 					"bubble" : 1,
+					"bubblepoint" : 1.0,
 					"id" : "obj-75",
 					"linecount" : 7,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 679.0, 230.0, 206.0, 104.0 ],
-					"presentation_linecount" : 33,
-					"text" : "generates a simple shape (e.g. sphere) \n\nwith @outputmatrix 1, we don't render the shape directly. instead, we send a 12-plane matrix that \"describes\" it out as a matrix"
+					"patching_rect" : [ 644.0, 154.5, 206.0, 104.0 ],
+					"presentation_linecount" : 36,
+					"text" : "jit.gl.gridshape generates a simple shape (e.g. sphere) \n\nwith @outputmatrix 1, we don't render the shape directly. instead, we send a 12-plane matrix that \"describes\" it out as a matrix"
 				}
 
 			}
@@ -1050,7 +1052,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 441.0, 234.0, 185.0, 22.0 ]
+					"patching_rect" : [ 441.0, 172.0, 185.0, 22.0 ]
 				}
 
 			}
