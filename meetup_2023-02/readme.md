@@ -19,6 +19,12 @@ Use this list of patches for a little bit of inspiration or free code. To use th
 ### jit.gl.bfg Roundup (C74 blog)
 Check out [this article](https://cycling74.com/tutorials/the-great-jit-gl-bfg-round-up) on the Cycling '74 blog where you can get jit.gl.bfg patches made by C74 employees 
 
+### stein_bfg-motion-examples
+Some basic examples of extracting motion data and converting from jitter to Max to be used anywhere you need an interesting modulation source
+
+### stein_bfg-matrix-sequencer
+This patch uses jit.gl.bfg to generate a texture in 2 dimensions. It then reduces the size of the jit.bfg matrix and converts its pixel values to a Max list using jit.spill. A sample is sliced into equal parts amounting to the pixel total of the resized jitter matrix. Each pixel value is used to control the amplitude of its corresponding sample slice in the mc.groove player below. This patch includes an example using jit.bfg and also one using its sibling jit.gl.bfg, showing how to convert from GL textures to Jitter matrices to Max lists.
+
 ### meyer_simplex_2dwavetable.maxpat
 Make a wavetable synth with jit.bfg.
 
